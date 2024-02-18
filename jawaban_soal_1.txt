@@ -1,0 +1,7 @@
+Merge conflict adalah suatu case di mana terjadi pertentangan ketika proses penggabungan antara dua source code yang berbeda.
+Merge conflict biasanya terjadi ketika dua orang melakukan perubahan pada bagian code yang sama dalam satu file dan salah satu orang mencoba untuk menggabungkan perubahannya dengan perubahan orang lain sehingga Git akan sulit menentukan perubahan mana yang harus diterapkan.
+
+Beberapa cara untuk menyelesaikan merge conflict adalah:
+
+Pertahankan satu sisi perubahan: Kita dapat memilih untuk mempertahankan semua perubahan dari satu sisi. Misalnya, jika kita yakin bahwa perubahan kita adalah yang benar, kita dapat memilih untuk mempertahankan semua perubahan kita dan mengabaikan perubahan dari sisi lain.
+Mengedit kode secara manual: Kita dapat membuka file yang memiliki konflik dan memutuskan perubahan mana yang harus dipertahankan. Git akan menandai area konflik di file kita dan kita dapat mengedit file tersebut untuk memutuskan perubahan mana yang harus dipertahankan atau dibuang.

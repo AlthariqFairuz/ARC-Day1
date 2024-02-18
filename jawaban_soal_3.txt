@@ -1,0 +1,3 @@
+Fork adalah proses menyalin sebuah repository online milik orang lain ke akun yang kita miliki. Dengan melakukan fork, kita dapat bebas melakukan apapun terhadap repositori tersebut. Berbeda dengan clone, fork tidak memiliki akses ke repository asli. Fork hanya akan membuat salinan dari repository asli ke akun kita.
+
+Pull Request adalah permintaan untuk menggabungkan kode. Jika kita telah membuat perubahan di repositori hasil fork dan ingin menggabungkan perubahan tersebut dengan repositori sumber, kita harus membuat pull request.

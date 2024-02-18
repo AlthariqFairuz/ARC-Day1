@@ -1,0 +1,2 @@
+Git Rebase adalah perintah Git yang memungkinkan kita untuk menerapkan kembali perubahan dari satu branch Git ke branch lainnya.
+Rebase sering digunakan sebagai alternatif merge. Misalnya, jika kita bekerja pada branch fitur yang sudah ketinggalan dengan branch main, melakukan rebase pada branch fitur ke brnach main akan memungkinkan semua commit baru dari main disertakan dalam branch fitur.
